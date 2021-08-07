@@ -1,5 +1,6 @@
 # Slides
 
+* 2021-08-05 - _Static typing_ - Explains the purpose of static type systems
 * 2019-09-20 - _Modernes C++_ - German introduction to modern C++, resource management and smart
   pointers
 * 2017-08-29 - _Weiche Kurven in der Computergrafik_ - German talk about a 3D demo I've wrote
